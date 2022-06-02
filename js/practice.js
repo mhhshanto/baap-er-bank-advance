@@ -16,11 +16,11 @@
 // var b = 29;{}
 // console.log(a  , b) 
 // console.log(Date.toTimeString());  
-var num = 6
-if(num%2 == 1){
-  console.log("odd");
-}
-else{
-  console.log("even");
-}
+// var num = 6
+// if(num%2 == 1){
+//   console.log("odd");
+// }
+// else{
+//   console.log("even");
+// }
 
