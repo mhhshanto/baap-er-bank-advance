@@ -2,5 +2,5 @@ var name = ''
 var fullName = name || "shanto"
 console.log("fullName: ", fullName);
 
-var isOk = true
+var isOk = false
 isOk && console.log("hi")
